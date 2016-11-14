@@ -14,3 +14,8 @@ let g:phplint_exe = 'ssh 192.168.xxx.xxx'
 autocmd BufWrite *.php :Phplint
 ```
 
+License
+-------------
+
+Same as https://github.com/nrocco/vim-phplint
+
